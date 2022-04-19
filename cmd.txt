@@ -1,0 +1,19 @@
+- f for ordinary
+-w wriatable
+-x fpr executable
+-s for if file size>0
+-e to check weather the file exist on not 
+-d for file 
+-b block special file
+-z string is empty or not
+-n it is non empty string
+
+1) write a program to check if two variable a>b a<b a==b a!=b 
+2) var a,b content of a the variable is string 
+ -> check if two string are equal or empty
+
+3) wrt a program to check weather the 2 given number are in range a>100 and b<100
+  -> a or b >100
+
+4)write a program to check weather the given file is dir or a file and verify weather it has read,write and excecute permission also verify if it exist
+ -> note the file name should not be hard coded pass it as a command line argument
